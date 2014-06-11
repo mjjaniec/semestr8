@@ -1,0 +1,3 @@
+rm -rf a.out v1
+mpicc -std=c99 v1.c -o v1
+mpiexec -machinefile ./mpihosts -np 2 ./v1 

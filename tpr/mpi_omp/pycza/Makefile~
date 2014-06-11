@@ -1,0 +1,30 @@
+# kompilator c
+CCOMP =mpicc
+
+# konsolidator
+LINK =mpicc
+
+# opcje optymalizacji:
+# wersja do debugowania
+# OPT = -g -DDEBUG -p
+# wersja zoptymalizowana do mierzenia czasu
+# OPT = -O3 -fopenmp -p
+
+# pliki naglowkowe
+INC=-I.
+
+# biblioteki
+LIB=-L. -lm -lpomiar
+#LIB = -lm
+
+# zaleznosci i komendy
+typy: typy.o
+	$(LINK) $(OPT) typy.o -o typy $(LIB)
+
+typy.o: typy.c
+	$(CCOMP) -c $(OPT) typy.c $(INC)
+
+clean:
+	rm -f *.o
+go:
+	mpiexec -host hostfile -np 3 ./typy

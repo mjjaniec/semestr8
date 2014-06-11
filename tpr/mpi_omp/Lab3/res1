@@ -1,0 +1,902 @@
+hosts: 1 size: 1              pi: 4.000000	 computation time:     0.000022
+hosts: 1 size: 2              pi: 4.000000	 computation time:     0.000020
+hosts: 1 size: 5              pi: 2.400000	 computation time:     0.000018
+hosts: 1 size: 10             pi: 3.200000	 computation time:     0.000018
+hosts: 1 size: 20             pi: 3.400000	 computation time:     0.000020
+hosts: 1 size: 50             pi: 3.200000	 computation time:     0.000022
+hosts: 1 size: 100            pi: 3.320000	 computation time:     0.000020
+hosts: 1 size: 200            pi: 3.240000	 computation time:     0.000052
+hosts: 1 size: 500            pi: 3.088000	 computation time:     0.000035
+hosts: 1 size: 1000           pi: 3.112000	 computation time:     0.000043
+hosts: 1 size: 2000           pi: 3.102000	 computation time:     0.000069
+hosts: 1 size: 5000           pi: 3.136800	 computation time:     0.000152
+hosts: 1 size: 10000          pi: 3.143600	 computation time:     0.000293
+hosts: 1 size: 20000          pi: 3.145600	 computation time:     0.000529
+hosts: 1 size: 50000          pi: 3.139280	 computation time:     0.001760
+hosts: 1 size: 100000         pi: 3.139400	 computation time:     0.003462
+hosts: 1 size: 200000         pi: 3.144080	 computation time:     0.005240
+hosts: 1 size: 500000         pi: 3.141944	 computation time:     0.012981
+hosts: 1 size: 1000000        pi: 3.142648	 computation time:     0.025908
+hosts: 1 size: 2000000        pi: 3.141026	 computation time:     0.052632
+hosts: 1 size: 5000000        pi: 3.140604	 computation time:     0.129844
+hosts: 1 size: 10000000       pi: 3.140821	 computation time:     0.259624
+hosts: 1 size: 20000000       pi: 3.141442	 computation time:     0.519272
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+hosts: 1 size: 50000000       pi: 3.141398	 computation time:     1.296516
+hosts: 1 size: 100000000      mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+pi: 3.141622	 computation time:     2.600814
+hosts: 1 size: 200000000      mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-07 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-07 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+pi: 3.141773	 computation time:     5.207289
+hosts: 1 size: 500000000      pi: 3.141664	 computation time:    12.960226
+hosts: 1 size: 1000000000     pi: 3.141619	 computation time:    25.968081
+hosts: 1 size: 2000000000     pi: 3.141531	 computation time:    51.826809
+hosts: 1 size: 5000000000     pi: 3.141593	 computation time:   129.618698
+hosts: 1 size: 10000000000    pi: 3.141625	 computation time:   259.291382
+hosts: 1 size: 20000000000    pi: 3.141589	 computation time:   518.511292
+hosts: 2 size: 1              pi: 4.000000	 computation time:     0.000938
+hosts: 2 size: 2              pi: 4.000000	 computation time:     0.000928
+hosts: 2 size: 5              pi: 4.000000	 computation time:     0.000948
+hosts: 2 size: 10             pi: 4.000000	 computation time:     0.000948
+hosts: 2 size: 20             pi: 3.400000	 computation time:     0.000953
+hosts: 2 size: 50             pi: 3.280000	 computation time:     0.000829
+hosts: 2 size: 100            pi: 3.000000	 computation time:     0.000322
+hosts: 2 size: 200            pi: 3.040000	 computation time:     0.000741
+hosts: 2 size: 500            pi: 3.080000	 computation time:     0.000948
+hosts: 2 size: 1000           pi: 3.108000	 computation time:     0.001918
+hosts: 2 size: 2000           pi: 3.140000	 computation time:     0.001917
+hosts: 2 size: 5000           pi: 3.128800	 computation time:     0.001918
+hosts: 2 size: 10000          pi: 3.120000	 computation time:     0.001917
+hosts: 2 size: 20000          pi: 3.132000	 computation time:     0.001918
+hosts: 2 size: 50000          pi: 3.142720	 computation time:     0.001754
+hosts: 2 size: 100000         pi: 3.140120	 computation time:     0.002912
+hosts: 2 size: 200000         pi: 3.137680	 computation time:     0.003959
+hosts: 2 size: 500000         pi: 3.142200	 computation time:     0.007913
+hosts: 2 size: 1000000        pi: 3.140844	 computation time:     0.013942
+hosts: 2 size: 2000000        pi: 3.142708	 computation time:     0.027923
+hosts: 2 size: 5000000        pi: 3.142280	 computation time:     0.066812
+hosts: 2 size: 10000000       pi: 3.141546	 computation time:     0.131622
+hosts: 2 size: 20000000       pi: 3.141622	 computation time:     0.261040
+hosts: 2 size: 50000000       pi: 3.141638	 computation time:     0.651935
+hosts: 2 size: 100000000      pi: 3.141266	 computation time:     1.303939
+hosts: 2 size: 200000000      pi: 3.141420	 computation time:     2.601888
+hosts: 2 size: 500000000      pi: 3.141578	 computation time:     6.495075
+hosts: 2 size: 1000000000     pi: 3.141616	 computation time:    12.995913
+hosts: 2 size: 2000000000     pi: 3.141637	 computation time:    25.988106
+hosts: 2 size: 5000000000     pi: 3.141611	 computation time:    65.018906
+hosts: 2 size: 10000000000    pi: 3.141562	 computation time:   131.533951
+hosts: 2 size: 20000000000    pi: 3.141589	 computation time:   300.760376
+hosts: 3 size: 1              pi: 4.000000	 computation time:     0.041196
+hosts: 3 size: 2              pi: 2.000000	 computation time:     0.000540
+hosts: 3 size: 5              pi: 2.400000	 computation time:     0.000819
+hosts: 3 size: 10             pi: 2.400000	 computation time:     0.001558
+hosts: 3 size: 20             pi: 2.600000	 computation time:     0.001078
+hosts: 3 size: 50             pi: 3.200000	 computation time:     0.000810
+hosts: 3 size: 100            pi: 3.160000	 computation time:     0.000736
+hosts: 3 size: 200            pi: 3.220000	 computation time:     0.001093
+hosts: 3 size: 500            pi: 3.240000	 computation time:     0.000955
+hosts: 3 size: 1000           pi: 3.132000	 computation time:     0.000657
+hosts: 3 size: 2000           pi: 3.166000	 computation time:     0.000837
+hosts: 3 size: 5000           pi: 3.132000	 computation time:     0.001446
+hosts: 3 size: 10000          pi: 3.130800	 computation time:     0.001391
+hosts: 3 size: 20000          pi: 3.154600	 computation time:     0.001839
+hosts: 3 size: 50000          pi: 3.142400	 computation time:     0.003517
+hosts: 3 size: 100000         pi: 3.144480	 computation time:     0.005744
+hosts: 3 size: 200000         pi: 3.143900	 computation time:     0.010049
+hosts: 3 size: 500000         pi: 3.139536	 computation time:     0.029029
+hosts: 3 size: 1000000        pi: 3.140240	 computation time:     0.054109
+hosts: 3 size: 2000000        pi: 3.141916	 computation time:     0.096607
+hosts: 3 size: 5000000        pi: 3.141550	 computation time:     0.233647
+hosts: 3 size: 10000000       pi: 3.141970	 computation time:     0.450523
+hosts: 3 size: 20000000       pi: 3.142000	 computation time:     0.890698
+hosts: 3 size: 50000000       pi: 3.141495	 computation time:     2.239007
+hosts: 3 size: 100000000      pi: 3.141456	 computation time:     4.502788
+hosts: 3 size: 200000000      pi: 3.141546	 computation time:     9.293343
+hosts: 3 size: 500000000      pi: 3.141657	 computation time:    24.025063
+hosts: 3 size: 1000000000     pi: 3.141659	 computation time:    47.824390
+hosts: 3 size: 2000000000     pi: 3.141596	 computation time:    89.495720
+hosts: 3 size: 5000000000     pi: 3.141585	 computation time:   233.917740
+hosts: 3 size: 10000000000    pi: 3.141570	 computation time:   453.904755
+hosts: 3 size: 20000000000    pi: 3.141600	 computation time:   902.102722
+hosts: 4 size: 1              pi: 0.000000	 computation time:     0.001391
+hosts: 4 size: 2              pi: 2.000000	 computation time:     0.001886
+hosts: 4 size: 5              pi: 2.400000	 computation time:     0.001077
+hosts: 4 size: 10             pi: 2.800000	 computation time:     0.001458
+hosts: 4 size: 20             pi: 2.800000	 computation time:     0.002035
+hosts: 4 size: 50             pi: 2.960000	 computation time:     0.001435
+hosts: 4 size: 100            pi: 3.160000	 computation time:     0.001001
+hosts: 4 size: 200            pi: 3.240000	 computation time:     0.001290
+hosts: 4 size: 500            pi: 3.208000	 computation time:     0.001158
+hosts: 4 size: 1000           pi: 3.164000	 computation time:     0.001126
+hosts: 4 size: 2000           pi: 3.148000	 computation time:     0.001143
+hosts: 4 size: 5000           pi: 3.187200	 computation time:     0.001821
+hosts: 4 size: 10000          pi: 3.180400	 computation time:     0.003302
+hosts: 4 size: 20000          pi: 3.168400	 computation time:     0.002105
+hosts: 4 size: 50000          pi: 3.156880	 computation time:     0.002554
+hosts: 4 size: 100000         pi: 3.150160	 computation time:     0.004306
+hosts: 4 size: 200000         pi: 3.148280	 computation time:     0.008027
+hosts: 4 size: 500000         pi: 3.144792	 computation time:     0.017505
+hosts: 4 size: 1000000        pi: 3.143232	 computation time:     0.036059
+hosts: 4 size: 2000000        pi: 3.141870	 computation time:     0.069036
+hosts: 4 size: 5000000        pi: 3.140837	 computation time:     0.176688
+hosts: 4 size: 10000000       pi: 3.141260	 computation time:     0.341275
+hosts: 4 size: 20000000       pi: 3.140960	 computation time:     0.663335
+hosts: 4 size: 50000000       pi: 3.141549	 computation time:     1.732260
+hosts: 4 size: 100000000      pi: 3.141796	 computation time:     3.394981
+hosts: 4 size: 200000000      pi: 3.141625	 computation time:     6.978628
+hosts: 4 size: 500000000      pi: 3.141578	 computation time:    17.012039
+hosts: 4 size: 1000000000     pi: 3.141576	 computation time:    34.265083
+hosts: 4 size: 2000000000     pi: 3.141587	 computation time:    67.650352
+hosts: 4 size: 5000000000     pi: 3.141626	 computation time:   173.428787
+hosts: 4 size: 10000000000    pi: 3.141580	 computation time:   338.791016
+hosts: 4 size: 20000000000    pi: 3.141581	 computation time:   680.504028
+hosts: 5 size: 1              rank 4 in job 195  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 195  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 2              rank 4 in job 196  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 5              rank 4 in job 197  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 197  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 10             rank 4 in job 198  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 198  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+rank 2 in job 198  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 20             rank 4 in job 199  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 50             rank 4 in job 200  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 200  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 100            rank 4 in job 201  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 200            rank 4 in job 202  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 202  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+rank 0 in job 202  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 0: killed by signal 11 
+hosts: 5 size: 500            rank 4 in job 203  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 1000           rank 4 in job 204  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 204  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 2000           rank 4 in job 205  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 5000           rank 4 in job 206  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 10000          rank 4 in job 207  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 20000          rank 4 in job 208  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 50000          rank 4 in job 209  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 100000         rank 4 in job 210  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 2 in job 210  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+rank 0 in job 210  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 0: killed by signal 11 
+hosts: 5 size: 200000         rank 4 in job 211  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 500000         rank 4 in job 212  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 2 in job 212  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 1000000        rank 4 in job 213  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 2 in job 213  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 2000000        rank 4 in job 214  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 5000000        rank 4 in job 215  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 215  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+rank 2 in job 215  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 10000000       rank 4 in job 216  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 20000000       rank 4 in job 217  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 50000000       rank 4 in job 218  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 218  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+rank 2 in job 218  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 100000000      rank 4 in job 219  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 5 size: 200000000      rank 4 in job 220  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 220  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 500000000      rank 4 in job 221  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 221  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+rank 2 in job 221  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 1000000000     rank 4 in job 222  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 2 in job 222  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+rank 1 in job 222  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 1: killed by signal 11 
+hosts: 5 size: 2000000000     rank 4 in job 223  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 2 in job 223  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 11 
+hosts: 5 size: 5000000000     rank 4 in job 224  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 224  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 10000000000    rank 4 in job 225  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+rank 3 in job 225  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 11 
+hosts: 5 size: 20000000000    rank 4 in job 226  vnode-07_49429   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 11 
+hosts: 6 size: 1              pi: 4.000000	 computation time:     0.006898
+hosts: 6 size: 2              pi: 4.000000	 computation time:     0.011597
+hosts: 6 size: 5              pi: 4.000000	 computation time:     0.007367
+hosts: 6 size: 10             pi: 3.200000	 computation time:     0.036983
+hosts: 6 size: 20             pi: 3.200000	 computation time:     0.034424
+hosts: 6 size: 50             pi: 2.880000	 computation time:     0.033155
+hosts: 6 size: 100            pi: 2.920000	 computation time:     0.036222
+hosts: 6 size: 200            pi: 2.980000	 computation time:     0.006083
+hosts: 6 size: 500            pi: 3.064000	 computation time:     0.036026
+hosts: 6 size: 1000           pi: 3.088000	 computation time:     0.035286
+hosts: 6 size: 2000           pi: 3.108000	 computation time:     0.006092
+hosts: 6 size: 5000           pi: 3.142400	 computation time:     0.022671
+hosts: 6 size: 10000          pi: 3.126400	 computation time:     0.013621
+hosts: 6 size: 20000          pi: 3.126800	 computation time:     0.011533
+hosts: 6 size: 50000          pi: 3.136880	 computation time:     0.019199
+hosts: 6 size: 100000         pi: 3.137760	 computation time:     0.007540
+hosts: 6 size: 200000         pi: 3.147860	 computation time:     0.040718
+hosts: 6 size: 500000         pi: 3.144048	 computation time:     0.025934
+hosts: 6 size: 1000000        pi: 3.143764	 computation time:     0.059030
+hosts: 6 size: 2000000        pi: 3.143070	 computation time:     0.055739
+hosts: 6 size: 5000000        pi: 3.143259	 computation time:     0.123012
+hosts: 6 size: 10000000       pi: 3.141476	 computation time:     0.250384
+hosts: 6 size: 20000000       pi: 3.141181	 computation time:     0.475373
+hosts: 6 size: 50000000       pi: 3.141181	 computation time:     1.225551
+hosts: 6 size: 100000000      pi: 3.141665	 computation time:     2.432595
+hosts: 6 size: 200000000      pi: 3.141649	 computation time:     4.736970
+hosts: 6 size: 500000000      pi: 3.141680	 computation time:    11.857942
+hosts: 6 size: 1000000000     pi: 3.141565	 computation time:    23.841209
+hosts: 6 size: 2000000000     pi: 3.141596	 computation time:    46.118107
+hosts: 6 size: 5000000000     pi: 3.141597	 computation time:   117.055771
+hosts: 6 size: 10000000000    pi: 3.141568	 computation time:   234.207352
+hosts: 6 size: 20000000000    pi: 3.141612	 computation time:   450.238953
+hosts: 7 size: 1              pi: 0.000000	 computation time:     0.007360
+hosts: 7 size: 2              pi: 0.000000	 computation time:     0.006716
+hosts: 7 size: 5              pi: 1.600000	 computation time:     0.013406
+hosts: 7 size: 10             pi: 2.000000	 computation time:     0.005596
+hosts: 7 size: 20             pi: 2.600000	 computation time:     0.006553
+hosts: 7 size: 50             pi: 2.960000	 computation time:     0.006321
+hosts: 7 size: 100            pi: 3.160000	 computation time:     0.020171
+hosts: 7 size: 200            pi: 3.240000	 computation time:     0.014005
+hosts: 7 size: 500            pi: 3.120000	 computation time:     0.017749
+hosts: 7 size: 1000           pi: 3.080000	 computation time:     0.034927
+hosts: 7 size: 2000           pi: 3.142000	 computation time:     0.006442
+hosts: 7 size: 5000           pi: 3.116000	 computation time:     0.006337
+hosts: 7 size: 10000          pi: 3.128400	 computation time:     0.036837
+hosts: 7 size: 20000          pi: 3.133200	 computation time:     0.013055
+hosts: 7 size: 50000          pi: 3.132640	 computation time:     0.015046
+hosts: 7 size: 100000         pi: 3.134360	 computation time:     0.014660
+hosts: 7 size: 200000         pi: 3.130920	 computation time:     0.019539
+hosts: 7 size: 500000         pi: 3.135832	 computation time:     0.047721
+hosts: 7 size: 1000000        pi: 3.139384	 computation time:     0.053580
+hosts: 7 size: 2000000        pi: 3.139996	 computation time:     0.075302
+hosts: 7 size: 5000000        pi: 3.140771	 computation time:     0.121433
+hosts: 7 size: 10000000       pi: 3.140347	 computation time:     0.234567
+hosts: 7 size: 20000000       pi: 3.140976	 computation time:     0.436808
+hosts: 7 size: 50000000       pi: 3.141263	 computation time:     1.079121
+hosts: 7 size: 100000000      pi: 3.141365	 computation time:     2.083547
+hosts: 7 size: 200000000      pi: 3.141399	 computation time:     4.251376
+hosts: 7 size: 500000000      pi: 3.141749	 computation time:    10.406088
+hosts: 7 size: 1000000000     pi: 3.141570	 computation time:    21.087400
+hosts: 7 size: 2000000000     pi: 3.141603	 computation time:    42.834564
+hosts: 7 size: 5000000000     pi: 3.141588	 computation time:   103.715347
+hosts: 7 size: 10000000000    pi: 3.141587	 computation time:   207.017487
+hosts: 7 size: 20000000000    pi: 3.141574	 computation time:   418.234344
+hosts: 8 size: 1              pi: 4.000000	 computation time:     0.020793
+hosts: 8 size: 2              pi: 4.000000	 computation time:     0.024521
+hosts: 8 size: 5              pi: 3.200000	 computation time:     0.029423
+hosts: 8 size: 10             pi: 2.800000	 computation time:     0.033250
+hosts: 8 size: 20             pi: 3.000000	 computation time:     0.039997
+hosts: 8 size: 50             pi: 2.720000	 computation time:     0.056572
+hosts: 8 size: 100            pi: 2.840000	 computation time:     0.022051
+hosts: 8 size: 200            pi: 2.980000	 computation time:     0.023578
+hosts: 8 size: 500            pi: 3.088000	 computation time:     0.016560
+hosts: 8 size: 1000           pi: 3.092000	 computation time:     0.017530
+hosts: 8 size: 2000           pi: 3.136000	 computation time:     0.016686
+hosts: 8 size: 5000           pi: 3.137600	 computation time:     0.018951
+hosts: 8 size: 10000          pi: 3.126800	 computation time:     0.017164
+hosts: 8 size: 20000          pi: 3.136800	 computation time:     0.043053
+hosts: 8 size: 50000          pi: 3.143600	 computation time:     0.038457
+hosts: 8 size: 100000         pi: 3.141160	 computation time:     0.044250
+hosts: 8 size: 200000         pi: 3.140420	 computation time:     0.044668
+hosts: 8 size: 500000         pi: 3.139536	 computation time:     0.022211
+hosts: 8 size: 1000000        pi: 3.141536	 computation time:     0.039452
+hosts: 8 size: 2000000        pi: 3.140110	 computation time:     0.044866
+hosts: 8 size: 5000000        pi: 3.141462	 computation time:     0.103769
+hosts: 8 size: 10000000       pi: 3.142465	 computation time:     0.185341
+hosts: 8 size: 20000000       pi: 3.141857	 computation time:     0.358582
+hosts: 8 size: 50000000       pi: 3.141556	 computation time:     0.919529
+hosts: 8 size: 100000000      pi: 3.141578	 computation time:     1.832277
+hosts: 8 size: 200000000      pi: 3.141537	 computation time:     3.488855
+hosts: 8 size: 500000000      pi: 3.141707	 computation time:     9.154379
+hosts: 8 size: 1000000000     pi: 3.141670	 computation time:    17.970554
+hosts: 8 size: 2000000000     pi: 3.141612	 computation time:    35.636292
+hosts: 8 size: 5000000000     pi: 3.141593	 computation time:    91.799744
+hosts: 8 size: 10000000000    pi: 3.141560	 computation time:   189.267960
+hosts: 8 size: 20000000000    pi: 3.141577	 computation time:   394.596313
+hosts: 9 size: 1              pi: 0.000000	 computation time:     0.023702
+hosts: 9 size: 2              pi: 2.000000	 computation time:     0.058199
+hosts: 9 size: 5              pi: 3.200000	 computation time:     0.030948
+hosts: 9 size: 10             pi: 3.200000	 computation time:     0.029999
+hosts: 9 size: 20             pi: 3.200000	 computation time:     0.034010
+hosts: 9 size: 50             pi: 3.120000	 computation time:     0.029036
+hosts: 9 size: 100            pi: 3.200000	 computation time:     0.021820
+hosts: 9 size: 200            pi: 3.000000	 computation time:     0.042070
+hosts: 9 size: 500            pi: 3.120000	 computation time:     0.017374
+hosts: 9 size: 1000           pi: 3.084000	 computation time:     0.037989
+hosts: 9 size: 2000           pi: 3.062000	 computation time:     0.029038
+hosts: 9 size: 5000           pi: 3.150400	 computation time:     0.023868
+hosts: 9 size: 10000          pi: 3.141600	 computation time:     0.045235
+hosts: 9 size: 20000          pi: 3.130800	 computation time:     0.047709
+hosts: 9 size: 50000          pi: 3.141680	 computation time:     0.020713
+hosts: 9 size: 100000         pi: 3.138200	 computation time:     0.026472
+hosts: 9 size: 200000         pi: 3.138800	 computation time:     0.041514
+hosts: 9 size: 500000         pi: 3.140704	 computation time:     0.028802
+hosts: 9 size: 1000000        pi: 3.139464	 computation time:     0.046156
+hosts: 9 size: 2000000        pi: 3.140220	 computation time:     0.051862
+hosts: 9 size: 5000000        pi: 3.141942	 computation time:     0.110657
+hosts: 9 size: 10000000       pi: 3.141771	 computation time:     0.203819
+hosts: 9 size: 20000000       pi: 3.141804	 computation time:     0.362591
+hosts: 9 size: 50000000       pi: 3.142078	 computation time:     0.854469
+hosts: 9 size: 100000000      pi: 3.141750	 computation time:     1.748024
+hosts: 9 size: 200000000      pi: 3.141676	 computation time:     3.199469
+hosts: 9 size: 500000000      pi: 3.141629	 computation time:     7.897536
+hosts: 9 size: 1000000000     pi: 3.141553	 computation time:    16.711464
+hosts: 9 size: 2000000000     pi: 3.141628	 computation time:    32.064186
+hosts: 9 size: 5000000000     pi: 3.141600	 computation time:    82.629143
+hosts: 9 size: 10000000000    pi: 3.141585	 computation time:   162.378372
+hosts: 9 size: 20000000000    pi: 3.141604	 computation time:   316.121063
+hosts: 10 size: 1             pi: 4.000000	 computation time:     0.032497
+hosts: 10 size: 2             pi: 2.000000	 computation time:     0.032800
+hosts: 10 size: 5             pi: 3.200000	 computation time:     0.061496
+hosts: 10 size: 10            pi: 2.800000	 computation time:     0.050737
+hosts: 10 size: 20            pi: 3.400000	 computation time:     0.025319
+hosts: 10 size: 50            pi: 3.200000	 computation time:     0.064050
+hosts: 10 size: 100           pi: 2.960000	 computation time:     0.073039
+hosts: 10 size: 200           pi: 3.140000	 computation time:     0.035974
+hosts: 10 size: 500           pi: 3.104000	 computation time:     0.041129
+hosts: 10 size: 1000          pi: 3.156000	 computation time:     0.032775
+hosts: 10 size: 2000          pi: 3.120000	 computation time:     0.024860
+hosts: 10 size: 5000          pi: 3.133600	 computation time:     0.036460
+hosts: 10 size: 10000         pi: 3.140800	 computation time:     0.049051
+hosts: 10 size: 20000         pi: 3.129400	 computation time:     0.047318
+hosts: 10 size: 50000         pi: 3.133440	 computation time:     0.041854
+hosts: 10 size: 100000        pi: 3.135640	 computation time:     0.034089
+hosts: 10 size: 200000        pi: 3.140180	 computation time:     0.032254
+hosts: 10 size: 500000        pi: 3.146232	 computation time:     0.051560
+hosts: 10 size: 1000000       pi: 3.143688	 computation time:     0.038958
+hosts: 10 size: 2000000       pi: 3.142448	 computation time:     0.078342
+hosts: 10 size: 5000000       pi: 3.142174	 computation time:     0.107947
+hosts: 10 size: 10000000      pi: 3.142052	 computation time:     0.177518
+hosts: 10 size: 20000000      pi: 3.141622	 computation time:     0.304057
+hosts: 10 size: 50000000      pi: 3.141537	 computation time:     0.736459
+hosts: 10 size: 100000000     pi: 3.141390	 computation time:     1.456707
+hosts: 10 size: 200000000     pi: 3.141481	 computation time:     2.896758
+hosts: 10 size: 500000000     pi: 3.141666	 computation time:     7.249098
+hosts: 10 size: 1000000000    pi: 3.141658	 computation time:    14.870114
+hosts: 10 size: 2000000000    pi: 3.141627	 computation time:    29.662285
+hosts: 10 size: 5000000000    pi: 3.141588	 computation time:    75.159668
+hosts: 10 size: 10000000000   pi: 3.141602	 computation time:   150.317383
+hosts: 10 size: 20000000000   pi: 3.141608	 computation time:   289.135742
+hosts: 11 size: 1             pi: 4.000000	 computation time:     0.035083
+hosts: 11 size: 2             pi: 4.000000	 computation time:     0.041144
+hosts: 11 size: 5             pi: 4.000000	 computation time:     0.021283
+hosts: 11 size: 10            pi: 3.600000	 computation time:     0.036834
+hosts: 11 size: 20            pi: 3.400000	 computation time:     0.029057
+hosts: 11 size: 50            pi: 3.200000	 computation time:     0.026625
+hosts: 11 size: 100           pi: 2.880000	 computation time:     0.018294
+hosts: 11 size: 200           pi: 3.000000	 computation time:     0.034514
+hosts: 11 size: 500           pi: 3.120000	 computation time:     0.017351
+hosts: 11 size: 1000          pi: 3.104000	 computation time:     0.036242
+hosts: 11 size: 2000          pi: 3.114000	 computation time:     0.023011
+hosts: 11 size: 5000          pi: 3.124000	 computation time:     0.035027
+hosts: 11 size: 10000         pi: 3.155600	 computation time:     0.035130
+hosts: 11 size: 20000         pi: 3.142800	 computation time:     0.018386
+hosts: 11 size: 50000         pi: 3.155120	 computation time:     0.028303
+hosts: 11 size: 100000        pi: 3.144960	 computation time:     0.038172
+hosts: 11 size: 200000        pi: 3.141460	 computation time:     0.046877
+hosts: 11 size: 500000        pi: 3.141328	 computation time:     0.046183
+hosts: 11 size: 1000000       pi: 3.140844	 computation time:     0.034525
+hosts: 11 size: 2000000       pi: 3.141356	 computation time:     0.059692
+hosts: 11 size: 5000000       pi: 3.143272	 computation time:     0.084090
+hosts: 11 size: 10000000      pi: 3.142654	 computation time:     0.149760
+hosts: 11 size: 20000000      pi: 3.142394	 computation time:     0.280277
+hosts: 11 size: 50000000      pi: 3.141855	 computation time:     0.718589
+hosts: 11 size: 100000000     pi: 3.141320	 computation time:     1.331751
+hosts: 11 size: 200000000     pi: 3.141605	 computation time:     2.538946
+hosts: 11 size: 500000000     pi: 3.141560	 computation time:     6.431702
+hosts: 11 size: 1000000000    pi: 3.141513	 computation time:    13.251030
+hosts: 11 size: 2000000000    pi: 3.141567	 computation time:    26.463896
+hosts: 11 size: 5000000000    pi: 3.141565	 computation time:    66.576080
+hosts: 11 size: 10000000000   pi: 3.141574	 computation time:   136.465469
+hosts: 11 size: 20000000000   pi: 3.141604	 computation time:   267.590271
+hosts: 12 size: 1             pi: 4.000000	 computation time:     0.076360
+hosts: 12 size: 2             pi: 4.000000	 computation time:     0.039550
+hosts: 12 size: 5             pi: 3.200000	 computation time:     0.030225
+hosts: 12 size: 10            pi: 3.600000	 computation time:     0.025247
+hosts: 12 size: 20            pi: 3.600000	 computation time:     0.035801
+hosts: 12 size: 50            pi: 3.520000	 computation time:     0.025996
+hosts: 12 size: 100           pi: 3.440000	 computation time:     0.039807
+hosts: 12 size: 200           pi: 3.380000	 computation time:     0.079214
+hosts: 12 size: 500           pi: 3.192000	 computation time:     0.029211
+hosts: 12 size: 1000          pi: 3.152000	 computation time:     0.026853
+hosts: 12 size: 2000          pi: 3.116000	 computation time:     0.046124
+hosts: 12 size: 5000          pi: 3.143200	 computation time:     0.056245
+hosts: 12 size: 10000         pi: 3.145200	 computation time:     0.032265
+hosts: 12 size: 20000         pi: 3.139800	 computation time:     0.036384
+hosts: 12 size: 50000         pi: 3.139040	 computation time:     0.048223
+hosts: 12 size: 100000        pi: 3.135160	 computation time:     0.033168
+hosts: 12 size: 200000        pi: 3.137340	 computation time:     0.039909
+hosts: 12 size: 500000        pi: 3.137824	 computation time:     0.058252
+hosts: 12 size: 1000000       pi: 3.139884	 computation time:     0.044996
+hosts: 12 size: 2000000       pi: 3.139702	 computation time:     0.069362
+hosts: 12 size: 5000000       pi: 3.141991	 computation time:     0.075958
+hosts: 12 size: 10000000      pi: 3.141830	 computation time:     0.267528
+hosts: 12 size: 20000000      pi: 3.141951	 computation time:     0.280345
+hosts: 12 size: 50000000      pi: 3.141845	 computation time:     0.653887
+hosts: 12 size: 100000000     pi: 3.141732	 computation time:     1.243498
+hosts: 12 size: 200000000     pi: 3.141429	 computation time:     2.461112
+hosts: 12 size: 500000000     pi: 3.141513	 computation time:     6.071243
+hosts: 12 size: 1000000000    pi: 3.141613	 computation time:    12.340077
+hosts: 12 size: 2000000000    pi: 3.141611	 computation time:    24.068668
+hosts: 12 size: 5000000000    pi: 3.141630	 computation time:    62.225605
+hosts: 12 size: 10000000000   pi: 3.141598	 computation time:   125.760262
+hosts: 12 size: 20000000000   pi: 3.141584	 computation time:   240.824600
+hosts: 13 size: 1             pi: 4.000000	 computation time:     0.038980
+hosts: 13 size: 2             pi: 2.000000	 computation time:     0.039798
+hosts: 13 size: 5             pi: 3.200000	 computation time:     0.027254
+hosts: 13 size: 10            pi: 3.200000	 computation time:     0.035999
+hosts: 13 size: 20            pi: 3.200000	 computation time:     0.020178
+hosts: 13 size: 50            pi: 3.280000	 computation time:     0.038384
+hosts: 13 size: 100           pi: 3.440000	 computation time:     0.025679
+hosts: 13 size: 200           pi: 3.380000	 computation time:     0.037433
+hosts: 13 size: 500           pi: 3.320000	 computation time:     0.052953
+hosts: 13 size: 1000          pi: 3.200000	 computation time:     0.046983
+hosts: 13 size: 2000          pi: 3.164000	 computation time:     0.055988
+hosts: 13 size: 5000          pi: 3.140800	 computation time:     0.036149
+hosts: 13 size: 10000         pi: 3.145200	 computation time:     0.044980
+hosts: 13 size: 20000         pi: 3.152800	 computation time:     0.052981
+hosts: 13 size: 50000         pi: 3.157680	 computation time:     0.035819
+hosts: 13 size: 100000        pi: 3.147000	 computation time:     0.024474
+hosts: 13 size: 200000        pi: 3.143060	 computation time:     0.064195
+hosts: 13 size: 500000        pi: 3.140136	 computation time:     0.038323
+hosts: 13 size: 1000000       pi: 3.140388	 computation time:     0.032956
+hosts: 13 size: 2000000       pi: 3.140460	 computation time:     0.056057
+hosts: 13 size: 5000000       pi: 3.141688	 computation time:     0.083719
+hosts: 13 size: 10000000      pi: 3.141952	 computation time:     0.131002
+hosts: 13 size: 20000000      pi: 3.141785	 computation time:     0.225075
+hosts: 13 size: 50000000      pi: 3.141492	 computation time:     0.695089
+hosts: 13 size: 100000000     pi: 3.141623	 computation time:     1.142323
+hosts: 13 size: 200000000     pi: 3.141665	 computation time:     2.273282
+hosts: 13 size: 500000000     pi: 3.141688	 computation time:     5.719371
+hosts: 13 size: 1000000000    pi: 3.141659	 computation time:    11.042412
+hosts: 13 size: 2000000000    pi: 3.141606	 computation time:    22.720657
+hosts: 13 size: 5000000000    pi: 3.141624	 computation time:    55.363037
+hosts: 13 size: 10000000000   pi: 3.141595	 computation time:   111.934998
+hosts: 13 size: 20000000000   pi: 3.141577	 computation time:   223.935303
+hosts: 14 size: 1             pi: 4.000000	 computation time:     0.040188
+hosts: 14 size: 2             pi: 4.000000	 computation time:     0.029159
+hosts: 14 size: 5             pi: 3.200000	 computation time:     0.038974
+hosts: 14 size: 10            pi: 3.200000	 computation time:     0.037842
+hosts: 14 size: 20            pi: 2.800000	 computation time:     0.030201
+hosts: 14 size: 50            pi: 2.880000	 computation time:     0.041399
+hosts: 14 size: 100           pi: 3.040000	 computation time:     0.038103
+hosts: 14 size: 200           pi: 3.140000	 computation time:     0.036228
+hosts: 14 size: 500           pi: 3.192000	 computation time:     0.058281
+hosts: 14 size: 1000          pi: 3.152000	 computation time:     0.032752
+hosts: 14 size: 2000          pi: 3.096000	 computation time:     0.031332
+hosts: 14 size: 5000          pi: 3.125600	 computation time:     0.036508
+hosts: 14 size: 10000         pi: 3.157600	 computation time:     0.028708
+hosts: 14 size: 20000         pi: 3.149400	 computation time:     0.032187
+hosts: 14 size: 50000         pi: 3.149280	 computation time:     0.018819
+hosts: 14 size: 100000        pi: 3.145280	 computation time:     0.033664
+hosts: 14 size: 200000        pi: 3.144080	 computation time:     0.033989
+hosts: 14 size: 500000        pi: 3.144032	 computation time:     0.039463
+hosts: 14 size: 1000000       pi: 3.142748	 computation time:     0.059290
+hosts: 14 size: 2000000       pi: 3.144000	 computation time:     0.053298
+hosts: 14 size: 5000000       pi: 3.142091	 computation time:     0.123963
+hosts: 14 size: 10000000      pi: 3.141675	 computation time:     0.220235
+hosts: 14 size: 20000000      pi: 3.141403	 computation time:     0.242748
+hosts: 14 size: 50000000      pi: 3.140964	 computation time:     0.639496
+hosts: 14 size: 100000000     pi: 3.141328	 computation time:     1.124978
+hosts: 14 size: 200000000     pi: 3.141469	 computation time:     2.118681
+hosts: 14 size: 500000000     pi: 3.141606	 computation time:     5.211735
+hosts: 14 size: 1000000000    pi: 3.141612	 computation time:    10.405987
+hosts: 14 size: 2000000000    pi: 3.141597	 computation time:    20.590855
+hosts: 14 size: 5000000000    pi: 3.141662	 computation time:    51.827091
+hosts: 14 size: 10000000000   pi: 3.141591	 computation time:   107.640884
+hosts: 14 size: 20000000000   pi: 3.141585	 computation time:   207.350845
+hosts: 15 size: 1             pi: 4.000000	 computation time:     0.032413
+hosts: 15 size: 2             pi: 2.000000	 computation time:     0.033257
+hosts: 15 size: 5             pi: 3.200000	 computation time:     0.039401
+hosts: 15 size: 10            pi: 3.200000	 computation time:     0.036847
+hosts: 15 size: 20            pi: 3.200000	 computation time:     0.045804
+hosts: 15 size: 50            pi: 3.200000	 computation time:     0.033270
+hosts: 15 size: 100           pi: 3.200000	 computation time:     0.040425
+hosts: 15 size: 200           pi: 3.260000	 computation time:     0.034094
+hosts: 15 size: 500           pi: 3.192000	 computation time:     0.038793
+hosts: 15 size: 1000          pi: 3.156000	 computation time:     0.028972
+hosts: 15 size: 2000          pi: 3.142000	 computation time:     0.032304
+hosts: 15 size: 5000          pi: 3.092800	 computation time:     0.039375
+hosts: 15 size: 10000         pi: 3.083200	 computation time:     0.031072
+hosts: 15 size: 20000         pi: 3.094600	 computation time:     0.038845
+hosts: 15 size: 50000         pi: 3.133120	 computation time:     0.050292
+hosts: 15 size: 100000        pi: 3.127360	 computation time:     0.032344
+hosts: 15 size: 200000        pi: 3.137220	 computation time:     0.045428
+hosts: 15 size: 500000        pi: 3.138680	 computation time:     0.042163
+hosts: 15 size: 1000000       pi: 3.139424	 computation time:     0.045210
+hosts: 15 size: 2000000       pi: 3.142156	 computation time:     0.056115
+hosts: 15 size: 5000000       pi: 3.141008	 computation time:     0.073985
+hosts: 15 size: 10000000      pi: 3.142118	 computation time:     0.135941
+hosts: 15 size: 20000000      pi: 3.141513	 computation time:     0.256658
+hosts: 15 size: 50000000      pi: 3.141796	 computation time:     0.529437
+hosts: 15 size: 100000000     pi: 3.141827	 computation time:     1.012056
+hosts: 15 size: 200000000     pi: 3.141675	 computation time:     2.075189
+hosts: 15 size: 500000000     pi: 3.141623	 computation time:     4.816971
+hosts: 15 size: 1000000000    pi: 3.141531	 computation time:     9.708406
+hosts: 15 size: 2000000000    pi: 3.141605	 computation time:    19.705870
+hosts: 15 size: 5000000000    pi: 3.141591	 computation time:    49.663727
+hosts: 15 size: 10000000000   pi: 3.141569	 computation time:    99.357536
+hosts: 15 size: 20000000000   pi: 3.141591	 computation time:   193.250778
+hosts: 16 size: 1             pi: 0.000000	 computation time:     0.028892
+hosts: 16 size: 2             pi: 2.000000	 computation time:     0.044342
+hosts: 16 size: 5             pi: 2.400000	 computation time:     0.041991
+hosts: 16 size: 10            pi: 3.200000	 computation time:     0.037919
+hosts: 16 size: 20            pi: 3.400000	 computation time:     0.028620
+hosts: 16 size: 50            pi: 2.720000	 computation time:     0.071628
+hosts: 16 size: 100           pi: 2.920000	 computation time:     0.055999
+hosts: 16 size: 200           pi: 3.020000	 computation time:     0.039080
+hosts: 16 size: 500           pi: 3.048000	 computation time:     0.048139
+hosts: 16 size: 1000          pi: 3.076000	 computation time:     0.045404
+hosts: 16 size: 2000          pi: 3.104000	 computation time:     0.041373
+hosts: 16 size: 5000          pi: 3.112000	 computation time:     0.030335
+hosts: 16 size: 10000         pi: 3.122400	 computation time:     0.033301
+hosts: 16 size: 20000         pi: 3.137400	 computation time:     0.041224
+hosts: 16 size: 50000         pi: 3.139440	 computation time:     0.037091
+hosts: 16 size: 100000        pi: 3.139720	 computation time:     0.038776
+hosts: 16 size: 200000        pi: 3.141380	 computation time:     0.034266
+hosts: 16 size: 500000        pi: 3.138712	 computation time:     0.044089
+hosts: 16 size: 1000000       pi: 3.137656	 computation time:     0.057376
+hosts: 16 size: 2000000       pi: 3.138320	 computation time:     0.069387
+hosts: 16 size: 5000000       pi: 3.140716	 computation time:     0.122843
+hosts: 16 size: 10000000      pi: 3.140322	 computation time:     0.127823
+hosts: 16 size: 20000000      pi: 3.140921	 computation time:     0.385004
+hosts: 16 size: 50000000      pi: 3.141504	 computation time:     0.506907
+hosts: 16 size: 100000000     pi: 3.141549	 computation time:     0.957010
+hosts: 16 size: 200000000     pi: 3.141663	 computation time:     1.815793
+hosts: 16 size: 500000000     pi: 3.141545	 computation time:     4.516608
+hosts: 16 size: 1000000000    pi: 3.141597	 computation time:     9.587749
+hosts: 16 size: 2000000000    pi: 3.141598	 computation time:    18.584583
+hosts: 16 size: 5000000000    pi: 3.141598	 computation time:    45.784454
+hosts: 16 size: 10000000000   pi: 3.141579	 computation time:    93.274017
+hosts: 16 size: 20000000000   pi: 3.141587	 computation time:   181.328506
+hosts: 17 size: 1             pi: 4.000000	 computation time:     0.058009
+hosts: 17 size: 2             pi: 2.000000	 computation time:     0.044323
+hosts: 17 size: 5             pi: 4.000000	 computation time:     0.055512
+hosts: 17 size: 10            pi: 3.200000	 computation time:     0.044072
+hosts: 17 size: 20            pi: 3.000000	 computation time:     0.059244
+hosts: 17 size: 50            pi: 2.960000	 computation time:     0.057009
+hosts: 17 size: 100           pi: 2.760000	 computation time:     0.044550
+hosts: 17 size: 200           pi: 3.280000	 computation time:     0.066295
+hosts: 17 size: 500           pi: 3.128000	 computation time:     0.042449
+hosts: 17 size: 1000          pi: 3.180000	 computation time:     0.048853
+hosts: 17 size: 2000          pi: 3.160000	 computation time:     0.048064
+hosts: 17 size: 5000          pi: 3.136800	 computation time:     0.044140
+hosts: 17 size: 10000         pi: 3.151600	 computation time:     0.057934
+hosts: 17 size: 20000         pi: 3.129600	 computation time:     0.054554
+hosts: 17 size: 50000         pi: 3.132720	 computation time:     0.044497
+hosts: 17 size: 100000        pi: 3.138320	 computation time:     0.051996
+hosts: 17 size: 200000        pi: 3.139840	 computation time:     0.042062
+hosts: 17 size: 500000        pi: 3.138144	 computation time:     0.063910
+hosts: 17 size: 1000000       pi: 3.141244	 computation time:     0.064006
+hosts: 17 size: 2000000       pi: 3.140896	 computation time:     0.080640
+hosts: 17 size: 5000000       pi: 3.142000	 computation time:     0.129320
+hosts: 17 size: 10000000      pi: 3.141140	 computation time:     0.118104
+hosts: 17 size: 20000000      pi: 3.141082	 computation time:     0.365048
+hosts: 17 size: 50000000      pi: 3.141625	 computation time:     0.446992
+hosts: 17 size: 100000000     pi: 3.141477	 computation time:     0.903883
+hosts: 17 size: 200000000     pi: 3.141499	 computation time:     1.764928
+hosts: 17 size: 500000000     pi: 3.141421	 computation time:     4.368413
+hosts: 17 size: 1000000000    pi: 3.141479	 computation time:     8.621032
+hosts: 17 size: 2000000000    pi: 3.141505	 computation time:    17.379387
+hosts: 17 size: 5000000000    pi: 3.141574	 computation time:    42.690006
+hosts: 17 size: 10000000000   pi: 3.141578	 computation time:    87.606903
+hosts: 17 size: 20000000000   pi: 3.141572	 computation time:   171.978973
+hosts: 18 size: 1             pi: 4.000000	 computation time:     0.048130
+hosts: 18 size: 2             pi: 4.000000	 computation time:     0.061181
+hosts: 18 size: 5             pi: 3.200000	 computation time:     0.039088
+hosts: 18 size: 10            pi: 2.800000	 computation time:     0.065804
+hosts: 18 size: 20            pi: 3.000000	 computation time:     0.044930
+hosts: 18 size: 50            pi: 3.280000	 computation time:     0.075026
+hosts: 18 size: 100           pi: 3.240000	 computation time:     0.035141
+hosts: 18 size: 200           pi: 3.160000	 computation time:     0.048229
+hosts: 18 size: 500           pi: 3.144000	 computation time:     0.051127
+hosts: 18 size: 1000          pi: 3.108000	 computation time:     0.048138
+hosts: 18 size: 2000          pi: 3.150000	 computation time:     0.045105
+hosts: 18 size: 5000          pi: 3.128000	 computation time:     0.055610
+hosts: 18 size: 10000         pi: 3.142000	 computation time:     0.042712
+hosts: 18 size: 20000         pi: 3.146000	 computation time:     0.048020
+hosts: 18 size: 50000         pi: 3.146560	 computation time:     0.071837
+hosts: 18 size: 100000        pi: 3.139880	 computation time:     0.080111
+hosts: 18 size: 200000        pi: 3.141420	 computation time:     0.053716
+hosts: 18 size: 500000        pi: 3.140032	 computation time:     0.071933
+hosts: 18 size: 1000000       pi: 3.141060	 computation time:     0.064985
+hosts: 18 size: 2000000       pi: 3.140448	 computation time:     0.058811
+hosts: 18 size: 5000000       pi: 3.140659	 computation time:     0.110434
+hosts: 18 size: 10000000      pi: 3.142146	 computation time:     0.169821
+hosts: 18 size: 20000000      pi: 3.141744	 computation time:     0.203854
+hosts: 18 size: 50000000      pi: 3.141506	 computation time:     0.459676
+hosts: 18 size: 100000000     pi: 3.141415	 computation time:     0.849441
+hosts: 18 size: 200000000     pi: 3.141602	 computation time:     2.026086
+hosts: 18 size: 500000000     pi: 3.141711	 computation time:     4.254345
+hosts: 18 size: 1000000000    pi: 3.141672	 computation time:     8.312960
+hosts: 18 size: 2000000000    pi: 3.141646	 computation time:    16.678421
+hosts: 18 size: 5000000000    pi: 3.141587	 computation time:    40.721745
+hosts: 18 size: 10000000000   pi: 3.141576	 computation time:    80.178032
+hosts: 18 size: 20000000000   pi: 3.141603	 computation time:   159.930161
+hosts: 19 size: 1             pi: 4.000000	 computation time:     0.046961
+hosts: 19 size: 2             pi: 2.000000	 computation time:     0.050726
+hosts: 19 size: 5             pi: 2.400000	 computation time:     0.043080
+hosts: 19 size: 10            pi: 2.400000	 computation time:     0.060979
+hosts: 19 size: 20            pi: 2.600000	 computation time:     0.044464
+hosts: 19 size: 50            pi: 2.800000	 computation time:     0.052119
+hosts: 19 size: 100           pi: 2.960000	 computation time:     0.068427
+hosts: 19 size: 200           pi: 3.060000	 computation time:     0.046975
+hosts: 19 size: 500           pi: 3.160000	 computation time:     0.065220
+hosts: 19 size: 1000          pi: 3.100000	 computation time:     0.072301
+hosts: 19 size: 2000          pi: 3.138000	 computation time:     0.054008
+hosts: 19 size: 5000          pi: 3.137600	 computation time:     0.045975
+hosts: 19 size: 10000         pi: 3.141200	 computation time:     0.043066
+hosts: 19 size: 20000         pi: 3.144600	 computation time:     0.050040
+hosts: 19 size: 50000         pi: 3.149200	 computation time:     0.041906
+hosts: 19 size: 100000        pi: 3.147960	 computation time:     0.055617
+hosts: 19 size: 200000        pi: 3.140140	 computation time:     0.046512
+hosts: 19 size: 500000        pi: 3.139408	 computation time:     0.050990
+hosts: 19 size: 1000000       pi: 3.138188	 computation time:     0.056172
+hosts: 19 size: 2000000       pi: 3.140522	 computation time:     0.076374
+hosts: 19 size: 5000000       pi: 3.140954	 computation time:     0.082609
+hosts: 19 size: 10000000      pi: 3.141420	 computation time:     0.131000
+hosts: 19 size: 20000000      pi: 3.141584	 computation time:     0.255164
+hosts: 19 size: 50000000      pi: 3.141057	 computation time:     0.423104
+hosts: 19 size: 100000000     pi: 3.141268	 computation time:     0.806525
+hosts: 19 size: 200000000     pi: 3.141166	 computation time:     1.534541
+hosts: 19 size: 500000000     pi: 3.141331	 computation time:     3.757221
+hosts: 19 size: 1000000000    pi: 3.141463	 computation time:     7.756893
+hosts: 19 size: 2000000000    pi: 3.141578	 computation time:    15.270658
+hosts: 19 size: 5000000000    pi: 3.141614	 computation time:    38.817310
+hosts: 19 size: 10000000000   pi: 3.141580	 computation time:    75.603630
+hosts: 19 size: 20000000000   pi: 3.141605	 computation time:   155.703842
+hosts: 20 size: 1             pi: 4.000000	 computation time:     0.074425
+hosts: 20 size: 2             pi: 4.000000	 computation time:     0.067458
+hosts: 20 size: 5             pi: 3.200000	 computation time:     0.042013
+hosts: 20 size: 10            pi: 3.600000	 computation time:     0.043075
+hosts: 20 size: 20            pi: 3.200000	 computation time:     0.061599
+hosts: 20 size: 50            pi: 2.800000	 computation time:     0.051047
+hosts: 20 size: 100           pi: 3.280000	 computation time:     0.043126
+hosts: 20 size: 200           pi: 3.060000	 computation time:     0.050736
+hosts: 20 size: 500           pi: 3.120000	 computation time:     0.055517
+hosts: 20 size: 1000          pi: 3.100000	 computation time:     0.041658
+hosts: 20 size: 2000          pi: 3.134000	 computation time:     0.051259
+hosts: 20 size: 5000          pi: 3.167200	 computation time:     0.047345
+hosts: 20 size: 10000         pi: 3.145600	 computation time:     0.040517
+hosts: 20 size: 20000         pi: 3.117000	 computation time:     0.050092
+hosts: 20 size: 50000         pi: 3.130000	 computation time:     0.076832
+hosts: 20 size: 100000        pi: 3.137840	 computation time:     0.059122
+hosts: 20 size: 200000        pi: 3.135720	 computation time:     0.051803
+hosts: 20 size: 500000        pi: 3.140440	 computation time:     0.048349
+hosts: 20 size: 1000000       pi: 3.141984	 computation time:     0.088916
+hosts: 20 size: 2000000       pi: 3.141540	 computation time:     0.070981
+hosts: 20 size: 5000000       pi: 3.141263	 computation time:     0.093088
+hosts: 20 size: 10000000      pi: 3.141350	 computation time:     0.119639
+hosts: 20 size: 20000000      pi: 3.141631	 computation time:     0.212402
+hosts: 20 size: 50000000      pi: 3.141754	 computation time:     0.463679
+hosts: 20 size: 100000000     pi: 3.141742	 computation time:     0.774531
+hosts: 20 size: 200000000     pi: 3.141654	 computation time:     1.472768
+hosts: 20 size: 500000000     pi: 3.141657	 computation time:     3.674681
+hosts: 20 size: 1000000000    pi: 3.141541	 computation time:     7.456938
+hosts: 20 size: 2000000000    pi: 3.141581	 computation time:    14.661531
+hosts: 20 size: 5000000000    pi: 3.141587	 computation time:    36.059311
+hosts: 20 size: 10000000000   pi: 3.141568	 computation time:    72.898232
+hosts: 20 size: 20000000000   pi: 3.141620	 computation time:   236.923676
+hosts: 21 size: 1             pi: 0.000000	 computation time:     0.058908
+hosts: 21 size: 2             pi: 2.000000	 computation time:     0.059732
+hosts: 21 size: 5             pi: 3.200000	 computation time:     0.051590
+hosts: 21 size: 10            pi: 3.200000	 computation time:     0.077037
+hosts: 21 size: 20            pi: 3.000000	 computation time:     0.051394
+hosts: 21 size: 50            pi: 3.440000	 computation time:     0.054040
+hosts: 21 size: 100           pi: 3.400000	 computation time:     0.071186
+hosts: 21 size: 200           pi: 3.240000	 computation time:     0.082112
+hosts: 21 size: 500           pi: 3.176000	 computation time:     0.056650
+hosts: 21 size: 1000          pi: 3.144000	 computation time:     0.051010
+hosts: 21 size: 2000          pi: 3.136000	 computation time:     0.037264
+hosts: 21 size: 5000          pi: 3.151200	 computation time:     0.043940
+hosts: 21 size: 10000         pi: 3.138800	 computation time:     0.066959
+hosts: 21 size: 20000         pi: 3.146200	 computation time:     0.052964
+hosts: 21 size: 50000         pi: 3.145920	 computation time:     0.050658
+hosts: 21 size: 100000        pi: 3.136640	 computation time:     0.080177
+hosts: 21 size: 200000        pi: 3.145100	 computation time:     0.063188
+hosts: 21 size: 500000        pi: 3.142672	 computation time:     0.053586
+hosts: 21 size: 1000000       pi: 3.142280	 computation time:     0.071434
+hosts: 21 size: 2000000       pi: 3.141352	 computation time:     0.115637
+hosts: 21 size: 5000000       pi: 3.142262	 computation time:     0.129295
+hosts: 21 size: 10000000      pi: 3.141895	 computation time:     0.151935
+hosts: 21 size: 20000000      pi: 3.141049	 computation time:     0.223547
+hosts: 21 size: 50000000      pi: 3.141327	 computation time:     0.395464
+hosts: 21 size: 100000000     pi: 3.141370	 computation time:     0.760039
+hosts: 21 size: 200000000     pi: 3.141548	 computation time:     1.464436
+hosts: 21 size: 500000000     pi: 3.141698	 computation time:     3.527511
+hosts: 21 size: 1000000000    pi: 3.141642	 computation time:     6.996734
+hosts: 21 size: 2000000000    pi: 3.141653	 computation time:    14.303034
+hosts: 21 size: 5000000000    pi: 3.141600	 computation time:    33.947819
+hosts: 21 size: 10000000000   pi: 3.141614	 computation time:    98.250549
+hosts: 21 size: 20000000000   pi: 3.141579	 computation time:   180.433853
+hosts: 22 size: 1             pi: 0.000000	 computation time:     0.090268
+hosts: 22 size: 2             pi: 2.000000	 computation time:     0.062610
+hosts: 22 size: 5             pi: 2.400000	 computation time:     0.093355
+hosts: 22 size: 10            pi: 3.200000	 computation time:     0.080269
+hosts: 22 size: 20            pi: 3.200000	 computation time:     0.060325
+hosts: 22 size: 50            pi: 3.040000	 computation time:     0.058334
+hosts: 22 size: 100           pi: 3.080000	 computation time:     0.073867
+hosts: 22 size: 200           pi: 2.820000	 computation time:     0.057757
+hosts: 22 size: 500           pi: 3.064000	 computation time:     0.074804
+hosts: 22 size: 1000          pi: 3.080000	 computation time:     0.053331
+hosts: 22 size: 2000          pi: 3.110000	 computation time:     0.117297
+hosts: 22 size: 5000          pi: 3.113600	 computation time:     0.054397
+hosts: 22 size: 10000         pi: 3.111200	 computation time:     0.057965
+hosts: 22 size: 20000         pi: 3.124600	 computation time:     0.065277
+hosts: 22 size: 50000         pi: 3.135840	 computation time:     0.084218
+hosts: 22 size: 100000        pi: 3.135600	 computation time:     0.056289
+hosts: 22 size: 200000        pi: 3.141680	 computation time:     0.064388
+hosts: 22 size: 500000        pi: 3.138552	 computation time:     0.076866
+hosts: 22 size: 1000000       pi: 3.139872	 computation time:     0.075468
+hosts: 22 size: 2000000       pi: 3.142074	 computation time:     0.093614
+hosts: 22 size: 5000000       pi: 3.141442	 computation time:     0.098981
+hosts: 22 size: 10000000      pi: 3.141498	 computation time:     0.122608
+hosts: 22 size: 20000000      pi: 3.141209	 computation time:     0.193696
+hosts: 22 size: 50000000      pi: 3.141611	 computation time:     0.368743
+hosts: 22 size: 100000000     pi: 3.141519	 computation time:     0.751388
+hosts: 22 size: 200000000     pi: 3.141588	 computation time:     1.343399
+hosts: 22 size: 500000000     pi: 3.141685	 computation time:     3.350475
+hosts: 22 size: 1000000000    pi: 3.141451	 computation time:     6.867590
+hosts: 22 size: 2000000000    pi: 3.141584	 computation time:    13.236004
+hosts: 22 size: 5000000000    pi: 3.141603	 computation time:    32.803246
+hosts: 22 size: 10000000000   pi: 3.141606	 computation time:    66.126740
+hosts: 22 size: 20000000000   pi: 3.141587	 computation time:   208.132645
+hosts: 23 size: 1             pi: 4.000000	 computation time:     0.066923
+hosts: 23 size: 2             pi: 4.000000	 computation time:     0.086537
+hosts: 23 size: 5             pi: 4.000000	 computation time:     0.072741
+hosts: 23 size: 10            pi: 3.600000	 computation time:     0.091012
+hosts: 23 size: 20            pi: 3.400000	 computation time:     0.105811
+hosts: 23 size: 50            pi: 3.200000	 computation time:     0.085471
+hosts: 23 size: 100           pi: 3.080000	 computation time:     0.086623
+hosts: 23 size: 200           pi: 3.020000	 computation time:     0.068068
+hosts: 23 size: 500           pi: 3.040000	 computation time:     0.065508
+hosts: 23 size: 1000          pi: 3.088000	 computation time:     0.070973
+hosts: 23 size: 2000          pi: 3.124000	 computation time:     0.067942
+hosts: 23 size: 5000          pi: 3.170400	 computation time:     0.079428
+hosts: 23 size: 10000         pi: 3.157200	 computation time:     0.092873
+hosts: 23 size: 20000         pi: 3.141600	 computation time:     0.067848
+hosts: 23 size: 50000         pi: 3.134320	 computation time:     0.087370
+hosts: 23 size: 100000        pi: 3.140400	 computation time:     0.082625
+hosts: 23 size: 200000        pi: 3.140860	 computation time:     0.073818
+hosts: 23 size: 500000        pi: 3.136080	 computation time:     0.075004
+hosts: 23 size: 1000000       pi: 3.138712	 computation time:     0.107525
+hosts: 23 size: 2000000       pi: 3.139306	 computation time:     0.088707
+hosts: 23 size: 5000000       pi: 3.140579	 computation time:     0.105392
+hosts: 23 size: 10000000      pi: 3.140776	 computation time:     0.129933
+hosts: 23 size: 20000000      pi: 3.141617	 computation time:     0.334642
+hosts: 23 size: 50000000      pi: 3.141365	 computation time:     0.533489
+hosts: 23 size: 100000000     pi: 3.141407	 computation time:     0.685540
+hosts: 23 size: 200000000     pi: 3.141541	 computation time:     1.328271
+hosts: 23 size: 500000000     pi: 3.141579	 computation time:     3.188428
+hosts: 23 size: 1000000000    pi: 3.141457	 computation time:     6.232987
+hosts: 23 size: 2000000000    pi: 3.141497	 computation time:    12.991655
+hosts: 23 size: 5000000000    pi: 3.141592	 computation time:    32.961945
+hosts: 23 size: 10000000000   pi: 3.141598	 computation time:    63.107391
+hosts: 23 size: 20000000000   pi: 3.141589	 computation time:   126.037445
+hosts: 24 size: 1             pi: 0.000000	 computation time:     0.070054
+hosts: 24 size: 2             pi: 2.000000	 computation time:     0.065043
+hosts: 24 size: 5             pi: 2.400000	 computation time:     0.059568
+hosts: 24 size: 10            pi: 3.200000	 computation time:     0.071016
+hosts: 24 size: 20            pi: 3.000000	 computation time:     0.069979
+hosts: 24 size: 50            pi: 3.120000	 computation time:     0.064524
+hosts: 24 size: 100           pi: 3.160000	 computation time:     0.067878
+hosts: 24 size: 200           pi: 3.220000	 computation time:     0.057271
+hosts: 24 size: 500           pi: 3.120000	 computation time:     0.068172
+hosts: 24 size: 1000          pi: 3.044000	 computation time:     0.071146
+hosts: 24 size: 2000          pi: 3.072000	 computation time:     0.065013
+hosts: 24 size: 5000          pi: 3.132000	 computation time:     0.429591
+hosts: 24 size: 10000         pi: 3.132000	 computation time:     0.067306
+hosts: 24 size: 20000         pi: 3.143400	 computation time:     0.084670
+hosts: 24 size: 50000         pi: 3.144720	 computation time:     0.128007
+hosts: 24 size: 100000        pi: 3.146440	 computation time:     0.093147
+hosts: 24 size: 200000        pi: 3.139380	 computation time:     0.093246
+hosts: 24 size: 500000        pi: 3.141232	 computation time:     0.066195
+hosts: 24 size: 1000000       pi: 3.141472	 computation time:     0.071287
+hosts: 24 size: 2000000       pi: 3.142180	 computation time:     0.079076
+hosts: 24 size: 5000000       pi: 3.141352	 computation time:     0.115064
+hosts: 24 size: 10000000      pi: 3.141833	 computation time:     0.197783
+hosts: 24 size: 20000000      pi: 3.141877	 computation time:     0.152416
+hosts: 24 size: 50000000      pi: 3.141442	 computation time:     0.349949
+hosts: 24 size: 100000000     pi: 3.141608	 computation time:     0.673819
+hosts: 24 size: 200000000     pi: 3.141721	 computation time:     1.265553
+hosts: 24 size: 500000000     pi: 3.141633	 computation time:     3.100019
+hosts: 24 size: 1000000000    pi: 3.141598	 computation time:     6.166919
+hosts: 24 size: 2000000000    pi: 3.141628	 computation time:    11.891706
+hosts: 24 size: 5000000000    pi: 3.141582	 computation time:    30.572641
+hosts: 24 size: 10000000000   pi: 3.141585	 computation time:    62.944019
+hosts: 24 size: 20000000000   pi: 3.141601	 computation time:   120.683861

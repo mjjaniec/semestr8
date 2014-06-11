@@ -1,0 +1,29 @@
+nodes 1
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 2
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 3
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 4
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 5
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 6
+problem_size:     100 time: 0.064306 s
+problem_size:     150 time: 0.066799 s
+problem_size:     200 time: 0.157038 s
+problem_size:     300 time: 0.491817 s
+problem_size:     400 time: 4.059844 s
+problem_size:     500 time: 5.819821 s
+problem_size:     600 time: 5.907546 s
+problem_size:     700 time: 9.246167 s
+problem_size:     800 time: 10.584755 s
+problem_size:     900 time: 25.582993 s
+problem_size:    1000 time: 23.317629 s
+problem_size:    1200 time: 39.588646 s
+problem_size:    1400 time: 60.689632 s
+problem_size:    1500 time: 91.501762 s
+problem_size:    1800 time: 118.491219 s
+problem_size:    2100 time: 243.159195 s
+nodes 7
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request

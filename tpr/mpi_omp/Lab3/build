@@ -1,0 +1,3 @@
+rm -rf parallel
+mpicc -std=c99 parallel.c -o parallel	
+mpiexec -np 24 ./parallel $1

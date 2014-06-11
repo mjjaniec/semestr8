@@ -1,0 +1,144 @@
+nodes 1
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 2
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 3
+problem_size:     100 time: 0.039067 s
+problem_size:     150 time: 0.113204 s
+problem_size:     200 time: 0.184150 s
+problem_size:     300 time: 0.689701 s
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+problem_size:     400 time: 2.479508 s
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+problem_size:     500 time: 7.850275 s
+problem_size:     600 time: 6.282690 s
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+mpiexec_vnode-01 (handle_stdin_input 1089): stdin problem; if pgm is run in background, redirect from /dev/null
+mpiexec_vnode-01 (handle_stdin_input 1090):     e.g.: mpiexec -n 4 a.out < /dev/null &
+problem_size:     700 time: 15.339047 s
+problem_size:     800 time: 35.568508 s
+problem_size:     900 time: 39.072720 s
+problem_size:    1000 time: 37.010429 s
+problem_size:    1200 time: 84.581116 s
+problem_size:    1400 time: 133.970718 s
+problem_size:    1500 time: 172.258820 s
+problem_size:    1800 time: 233.689957 s
+problem_size:    2100 time: 356.536774 s
+nodes 4
+problem_size:     100 time: 0.043373 s
+problem_size:     150 time: 0.072071 s
+problem_size:     200 time: 0.139827 s
+problem_size:     300 time: 0.533763 s
+problem_size:     400 time: 1.866182 s
+problem_size:     500 time: 6.248519 s
+problem_size:     600 time: 12.171921 s
+problem_size:     700 time: 21.998512 s
+problem_size:     800 time: 12.520260 s
+problem_size:     900 time: 23.260567 s
+problem_size:    1000 time: 32.200859 s
+problem_size:    1200 time: 39.298420 s
+problem_size:    1400 time: 55.754570 s
+problem_size:    1500 time: 76.970245 s
+problem_size:    1800 time: 102.596199 s
+problem_size:    2100 time: 205.918335 s
+nodes 5
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 6
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request
+nodes 7
+mpiexec_vnode-01 (mpiexec 392): no msg recvd from mpd when expecting ack of request

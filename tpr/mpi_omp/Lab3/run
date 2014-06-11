@@ -1,0 +1,16 @@
+#!/bin/bash
+
+for i in 10000 100000000
+do 
+#    for i in 1000 5000 10000 20000 30000 40000 50000 60000 70000 80000 100000 200000 500000 \
+#	1000000 2000000 5000000 10000000 20000000 50000000 100000000 200000000 300000000 \
+#	400000000 500000000 600000000 700000000 800000000 1000000000 2000000000
+    for hosts in {1..7}
+    do
+	size=$(($i * $hosts))
+        string="hosts: $hosts size: $size "
+        echo -n $string
+        for (( k=${#string}; k<=30; k++ )); do echo -n " "; done
+        mpiexec -machinefile mpihosts -np $hosts ./parallel $size
+     done
+done

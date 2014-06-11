@@ -1,0 +1,19 @@
+#!/bin/bash
+
+for hosts in {1..24}
+do 
+    for multiply in 1 1000 1000000 1000000000 
+    do
+        for i in 1 2 5 10 20 50 100 200 500
+        do
+            size=$(($i * $multiply))
+            if [ "$size" -le 20000000000 ]
+            then
+                string="hosts: $hosts size: $size "
+                echo -n $string
+                for (( k=${#string}; k<=30; k++ )); do echo -n " "; done
+                #mpiexec -np $hosts ./parallel $size
+            fi
+        done
+    done
+done

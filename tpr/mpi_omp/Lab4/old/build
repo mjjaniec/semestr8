@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf main
+mpicc -std=c99 2static.c -o main
+mpiexec -np $1 ./main
